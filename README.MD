@@ -88,8 +88,7 @@ También podés explorar el proyecto directamente en Google Colab:
 [👉 Abrir en Google Colab](https://colab.research.google.com/drive/1MIxN09-qUOJqyDIQVDhGXzheKHAElmSE)
 
 
-```bash
-pip install -r requirements.txt
+
 
 ## 🔑 Configuración de la API de OpenWeather
 
@@ -100,8 +99,6 @@ Este proyecto utiliza el endpoint de pronóstico **5-day/3-hour** de [OpenWeathe
 
 **Linux / macOS (bash/zsh):**
 
-```bash
-export OPENWEATHER_API_KEY="TU_API_KEY_AQUI"
 
 ## 🚀 Cómo ejecutar el proyecto localmente
 
@@ -155,5 +152,6 @@ source .venv/bin/activate   # Linux/macOS
 - API interna,
 
 - dashboard (Power BI, Streamlit, etc.),
+
 
 - componente de un flujo de automatización (Power Automate, Zapier, Make).
